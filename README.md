@@ -1,2 +1,3 @@
 # buknotes_bot
-Бот для проекта Buknotes.ru
+
+Бот для проекта [Buknotes.ru](http://buknotes.ru/)
